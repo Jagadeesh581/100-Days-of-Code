@@ -1,6 +1,4 @@
-100 Days of Code
-
-==================
+# 100 Days of Code
 
 This repository is created for educational purpose only.
 
